@@ -1,0 +1,10 @@
+title: "Підтримка РобиЗбір!"
+description: "Help & legal info for the RobiZbir! app"
+theme: minima
+show_downloads: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
